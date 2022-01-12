@@ -1,0 +1,37 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: white;
+}
+
+.product-img,
+.category-img {
+  background-size: cover;
+
+  height: 40vh;
+}
+
+.product-img img {
+  background-size: cover;
+}
+.product_view-img img {
+  max-width: 90%;
+  max-height: 400px;
+  background-size: cover;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+}
+
+.thumbnail {
+  border: 0;
+}
