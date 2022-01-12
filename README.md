@@ -1,8 +1,6 @@
-# E-Commerce Store with MERN Stack
+# Office Supplies with MERN Stack
 
-This app is the follow up of my boilerplate-MERN:
-https://github.com/khoadodk/boilerplate-mern-stack
-
+This app was created using MERN as part of Web programming language coursework:
 # App features
 
 <ul>
@@ -12,6 +10,4 @@ https://github.com/khoadodk/boilerplate-mern-stack
 <li>Product Search</li>
 <li>Product page with related products</li>
 <li>Shopping cart</li>
-<li>Payment with Credit Card or PayPal</li>
-<li>Email notification when an order is placed</li>
 </ul>
